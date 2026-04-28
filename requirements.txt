@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+streamlit
+python-dotenv
+langchain-google-genai
+=======
+streamlit
+python-dotenv
+langchain-google-genai
+>>>>>>> c0e6503dcceb4a19cad9ca3a3137a85019bee44f
+langchain-groq
