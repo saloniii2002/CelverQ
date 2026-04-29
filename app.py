@@ -45,7 +45,6 @@ messages = st.session_state.chats[st.session_state.current_chat]
 st.set_page_config(page_title="CleverQ", layout="wide")
 
 
-# ===== UI STYLE (YOUR DARK THEME BACK) =====
 st.markdown("""
 <style>
 [data-testid="stAppViewContainer"] {
