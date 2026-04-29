@@ -1,6 +1,10 @@
 streamlit
 python-dotenv
+
 langchain
 langchain-google-genai
 langchain-groq
+
 google-generativeai
+
+pydantic==2.7.4
